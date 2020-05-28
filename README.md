@@ -1,0 +1,1 @@
+This project invloved recreating the Google Homepage. In it, I applied my HTML and CSS skills.
